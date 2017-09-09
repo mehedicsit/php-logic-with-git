@@ -63,6 +63,10 @@
 for ($i=0; $i <9 ; $i++) { 
 	echo "git learning is so fun";
 }
+$learn="Git learning is a fun";
 
+if ($learn ){
 
+	echo $learn;
+}
 
