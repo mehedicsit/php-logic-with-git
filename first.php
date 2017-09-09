@@ -53,12 +53,16 @@
 
 // print print (print 5)+print 2 + 1 + print 1; 
 
-$a = [1,2,4];
+//$a = [1,2,4];
 // $b = ['c','c','c'];
 
 // $c = array_combine($b, $a);
 
 // print_r(array_flip($a));
+
+for ($i=0; $i <9 ; $i++) { 
+	echo "git learning is so fun";
+}
 
 
 
